@@ -1,4 +1,3 @@
-### Hi there 👋
 
 👋 &nbsp;Hi, I'm Kevin
 
@@ -9,7 +8,7 @@
 🌱 &nbsp;I'm I'm always learning new technologies in both front-end and back-end, as well as always trying to bring art and tech together.\
 ✍️ &nbsp;In my free time I focus on learning about game development, art and design.\
 💬 &nbsp;Feel free to get in touch with me if anything about me made you interested.\
-✉️ &nbsp;You can send me an email at kevinwischneski@gmail.com! I'll answer as soon as I can.\
+✉️ &nbsp;You can send me an email at kevinwischneski@gmail.com! I'll answer as soon as I can.
 
 <img alt="Coding" width="400em" src="https://data.whicdn.com/images/140122644/original.gif" align="right"/>
 
