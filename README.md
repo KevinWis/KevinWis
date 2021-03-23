@@ -53,5 +53,5 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kevin-wischneski/"><img src="https://img.shields.io/badge/-Kevin%20Wischneski-0077B5?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kevinwischneski@gmail.com"><img src="https://img.shields.io/badge/-kevinwiscnheski@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kevinwischneski@gmail.com"><img src="https://img.shields.io/badge/-kevinwischneski@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
