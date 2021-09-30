@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to use technology to build solutions.\
-🎓 &nbsp;I'm currently studying Software Engineering at Kenzie Academy.\
+🎓 &nbsp;I'm currently a Front-end developer.\
 🌱 &nbsp;I'm always learning new technologies in both front-end and back-end, as well as always trying to bring art and tech together.\
 ✍️ &nbsp;In my free time I focus on learning about game development, art and design.\
 💬 &nbsp;Feel free to get in touch with me if anything about me made you interested.\
